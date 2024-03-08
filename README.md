@@ -21,6 +21,9 @@ Here is a screenshot of the support email and below is the support firmware that
 
 
 The issue I had and the firmware resolved was the drobo would start booting and the blue lights would move to one side (like a progress bar) and it would only load 90% and fail due to a coruption.  
+I was told that the main NTFS MBR got corrupted and they make this custom firmware to use a secondary MBR and that allowed me to connect the drives long enough to copy all the data off.
+After I copied all my data I wiped the drobo and installed the latest firmware and its been working so far. 
+
 
 
 
