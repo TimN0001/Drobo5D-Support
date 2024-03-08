@@ -20,4 +20,5 @@ Here is a screenshot of the support email and below is the support firmware that
 
 
 Instructions
-
+if you are having issues with the drobo disk drives loading. It would start booting and the blue lights would move act like a progress bar and it would only load 90% and fail due to a coruption.  
+There is a 
