@@ -12,9 +12,10 @@ This firmware is only to be used on the 5D model
 
 
 
-
+Here is a screenshot of the support email and below is the support firmware that is version 0.0.0
 ![Drobo Support firmware](https://github.com/TimN0001/Drobo5D-Support/assets/9089167/6f7e9116-791f-439f-95c0-98b014f6fece)
 
+[Drobo5D_74114.zip](https://github.com/TimN0001/Drobo5D-Support/files/14539286/Drobo5D_74114.zip)
 
 
 
