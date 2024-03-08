@@ -13,6 +13,7 @@ This firmware is only to be used on the 5D model
 
 
 
+![Drobo Support firmware](https://github.com/TimN0001/Drobo5D-Support/assets/9089167/6f7e9116-791f-439f-95c0-98b014f6fece)
 
 
 
