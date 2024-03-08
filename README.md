@@ -18,4 +18,4 @@ This firmware is only to be used on the 5D model
 
 
 Instructions
-[Drobo Recovery Firmware.zip](https://github.com/TimN0001/DroboSupport/files/14538443/Drobo.Recovery.Firmware.zip)
+
