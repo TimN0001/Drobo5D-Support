@@ -1,0 +1,20 @@
+1. Safely Shutdown Drobo
+http://support.drobo.com/app/answers/detail/a_id/251/
+
+2. With Drobo powered Off, remove power, eject the drives (including removing mSATA), and return power to power on empty.
+
+3. When the Dashboard recognizes the empty Drobo, click on Status. To put Drobo into Read Only use key stroke command "Control-Alt-Shift-R". Follow the prompts to reboot. After the reboot, to verify Drobo is in Read Only mode look next to the name of the Drobo and you will see "RO". Properly Shutdown the Drobo and insert the drives. Note: Using "Control-Alt-Shift-R" toggles Drobo in/out of Read Only mode so please be patient.
+
+4. Once verified Drobo is in Read Only mode, properly Shutdown the drobo.
+
+5. Add the drives back into Drobo and boot up (please continue to leave the mSATA out for now)
+
+6. If Drobo stays up, capture diags in Read Only mode
+
+7. If Drobo goes into a reboot loop (or does not detect in Dashboard after 15 minutes of waiting), pull the power from Drobo
+
+8. Remove diskpack
+
+9. Boot without drives and capture diags.
+
+Please let me know if you need help with this.
