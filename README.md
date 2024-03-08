@@ -8,7 +8,7 @@ I had a MBR corruption on my drobo 5c and this was able to recover the data and 
 I then updated the firmware to the latest (4.2.3 [7.199.116068]) and have been using that for a few years now. 
 
 This firmware is only to be used on the 5D model
-![Screenshot of Drobo make model](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screenshot of Drobo make model](https://github.com/TimN0001/DroboSupport/blob/main/droboscreenshot.png)
 
 
 
